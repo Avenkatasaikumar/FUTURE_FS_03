@@ -23,13 +23,13 @@ A professional website for a neighbourhood café, **Brew & Bloom Café**. This i
 ## Screenshots
 | Desktop home | Menu section |
 |---|---|
-| ![Desktop home](screenshots/01-desktop-home.png) | ![Menu](screenshots/03-menu-section.png) |
+| ![Desktop home](screenshots/screenshots/01-desktop-home.png) | ![Menu](screenshots/screenshots/03-menu-section.png) |
 
 | Mobile | Mobile dark mode |
 |---|---|
-| ![Mobile](screenshots/04-mobile-home.png) | ![Dark mode](screenshots/05-mobile-dark-mode.png) |
+| ![Mobile](screenshots/screenshots/04-mobile-home.png) | ![Dark mode](screenshots/screenshots/05-mobile-dark-mode.png) |
 
-Full page: [screenshots/02-desktop-full-page.png](screenshots/02-desktop-full-page.png)
+Full page: [screenshots/screenshots/02-desktop-full-page.png](screenshots/screenshots/02-desktop-full-page.png)
 
 ## Tech stack
 HTML5, CSS3 (custom properties, grid, flexbox, media queries), vanilla JavaScript. No frameworks or build step. Hosted on GitHub Pages.
